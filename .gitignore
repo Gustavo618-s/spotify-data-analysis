@@ -1,0 +1,12 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar arquivos temporários do Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignorar arquivos de dados pesados (pode subir depois se quiser)
+*.csv
+
+# Ignorar configs do VSCode
+.vscode/
